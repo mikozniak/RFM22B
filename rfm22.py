@@ -4,6 +4,9 @@ u'''
     ~~~~~
 
     Driver for RFM22 module connected to Raspberry PI using wiringpi2 and RPIO.
+    @version: 0.1
+    @license: GNU GPL 
+    @author: Maximilian Betz
    
 '''
 #Raspberry Pi specific imports:
